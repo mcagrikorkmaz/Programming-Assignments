@@ -1,0 +1,5 @@
+BUY	Crisps,6	Waters,5	Chocolates,1
+PUT	Drinks,I21,I22,I23	Chocolates,I24,I25,I26,I27	Waters,I28,I29	Chocolates,I30,I31,I32
+BUY	Biscuits,5	Chocolates,6	Drinks,2
+PUT	Waters,I33,I34,I35	Drinks,I36,I37,I38	Chocolates,I39,I40	Biscuits,I41,I42,I43,I44,I45	Crisps,I46,I47,I48,I49,I50
+BUY	Waters,3	Biscuits,4	Chocolates,2	Crisps,4	Drinks,3

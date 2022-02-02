@@ -1,0 +1,13 @@
+T1 Waters 5
+T2 Chocolates 2
+T3 Chocolates 5
+T4 Crisps 5
+T5 Biscuits 2
+T6 Crisps 3
+T7 Drinks 5
+T8 Biscuits 2
+T9 Biscuits 6
+T10 Crisps 8
+T11 Drinks 4
+T12 Waters 7
+T13 Chocolates 5
