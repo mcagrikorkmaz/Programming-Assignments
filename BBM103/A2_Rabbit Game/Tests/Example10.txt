@@ -1,0 +1,25 @@
+Please enter feeding map as a list:
+[['X', 'X', 'X', 'X', 'M', 'A', 'X', 'X', 'C', 'W'], ['A', 'X', 'W', 'W', 'P', 'P', 'P', 'M', 'A', 'W'], ['C', 'X', '*', 'A', 'M', 'P', 'P', 'P', 'C', 'X'], ['X', 'M', 'M', 'W', 'P', 'X', 'C', 'P', 'M', 'P'], ['W', 'W', 'W', 'X', 'X', 'W', 'P', 'X', 'C', 'M'], ['X', 'P', 'X', 'C', 'A', 'P', 'X', 'X', 'M', 'C'], ['P', 'W', 'M', 'A', 'X', 'C', 'C', 'X', 'W', 'M'], ['A', 'C', 'X', 'X', 'C', 'P', 'M', 'W', 'A', 'W'], ['X', 'C', 'A', 'X', 'C', 'M', 'A', 'M', 'X', 'A']]
+Please enter direction of movements as a list:
+['R', 'D', 'R', 'L', 'R', 'U', 'D', 'D', 'L', 'L', 'U']
+Your board is:
+X X X X M A X X C W
+A X W W P P P M A W
+C X * A M P P P C X
+X M M W P X C P M P
+W W W X X W P X C M
+X P X C A P X X M C
+P W M A X C C X W M
+A C X X C P M W A W
+X C A X C M A M X A
+Your output should be like this:
+X X X X M A X X C W
+A X W W * P P M A W
+C X X X X P P P C X
+X M M W P X C P M P
+W W W X X W P X C M
+X P X C A P X X M C
+P W M A X C C X W M
+A C X X C P M W A W
+X C A X C M A M X A
+Your score is: 0
